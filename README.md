@@ -96,7 +96,7 @@ All functionalities were evaluated with valid and invalid input combinations for
 ## 👨‍💻 Author
 
 **Md Syful Islam**  
-`ID: 222002111`  
+`Student ID: 222002111`  
 📚 B.Sc. in CSE (Day), Green University of Bangladesh  
 🧑‍🏫 **Course:** Algorithms Lab (CSE 206)  
 👨‍🏫 **Instructor:** Mr. Md Nazmus Shakib  
