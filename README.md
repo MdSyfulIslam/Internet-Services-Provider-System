@@ -34,7 +34,7 @@ This project was developed for the **Algorithms Lab (CSE 206)** course at Green 
   - Minimum spanning tree setup *(coming soon)*
 - 💰 **Billing module** *(under development)*
 - 🖱 Simple and interactive Java Swing UI
-- 🧠 Uses in-memory `HashMap` for storing records
+
 
 ---
 
@@ -54,7 +54,7 @@ The project applies the following core algorithms and data structures:
 
 - **Language:** Java
 - **GUI Framework:** Java Swing
-- **IDE:** IntelliJ IDEA / Eclipse
+- **IDE:**  NetBeans
 - **Data Storage:** In-memory (HashMap)
 
 **Hardware Requirements:**
